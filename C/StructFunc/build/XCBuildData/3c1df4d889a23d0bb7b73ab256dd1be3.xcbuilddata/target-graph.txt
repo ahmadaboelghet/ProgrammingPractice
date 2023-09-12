@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+StructFunc in StructFunc, no dependencies
